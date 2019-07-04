@@ -11,5 +11,3 @@
 ### [Live preview here.](https://space-hound.github.io/web-snake/)
 
  - If 1000 `<h1>...</h1>` are generated after you press play and the whole page seems bugged, is intentional, you didn't choose a name.
-
-<hr>
